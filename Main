@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     private static final int NUM_THREADS = 21;
     private static final Semaphore semaphore = new Semaphore(1);
 
